@@ -4,7 +4,7 @@ import java.util.ServiceLoader;
 
 import com.amon.app.Calculadora;
 
-public class Teste {
+public class Operation {
 
 	public static void main(String[] args) {
 		

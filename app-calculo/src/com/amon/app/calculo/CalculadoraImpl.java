@@ -13,7 +13,4 @@ public class CalculadoraImpl implements Calculadora{
 		logger.info("Somando...");
 		return opAritimeticas.soma(nums);
 	}
-	
-	
-
 }
